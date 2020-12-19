@@ -1,9 +1,6 @@
 
-These files are the data underlying the Entree system (originally,
-http://infolab.cs.uchicago.edu/entree/ and now
-http://infolab.ils.nwu.edu/entree/). It is of historical significance
-only due to the volatility of the restaurant industry, but it is the
-raw data from which Entree generates its recommendations.
+These files are the data underlying the Entree system (originally, http://infolab.cs.uchicago.edu/entree/ and now http://infolab.ils.nwu.edu/entree/). 
+It is of historical significance only due to the volatility of the restaurant industry, but it is the raw data from which Entree generates its recommendations.
 
 Contents:
 
